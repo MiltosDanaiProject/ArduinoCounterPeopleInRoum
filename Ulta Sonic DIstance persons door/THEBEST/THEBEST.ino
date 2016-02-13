@@ -1,5 +1,5 @@
 int triger1=2;
-int echo1=3;
+int echo1=3;//github
 int triger2=4;
 int echo2=5;
 int peopleNum=0;
