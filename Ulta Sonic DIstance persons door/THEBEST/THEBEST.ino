@@ -1,4 +1,4 @@
-int triger1=2;
+int triger1=2; //hello
 int echo1=3;//github
 int triger2=4;
 int echo2=5;
